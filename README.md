@@ -1,5 +1,20 @@
 # Judit Sarkany - Selected projects
 
+## Polestar's Design System - Component Library - Code d'azur - 2023
+
+### Internal Component Library
+
+React, Typescript, Emotion, Storybook, Playwright
+
+Worked as a frontend developer in the component warehouse team. Our main purpose was to develop reusable and flexible components that other teams can apply for their different use cases. We advised on usability, best practices. Provided support for other devs, in terms of bug fixes, and of course adding new features or customizing existing one(s).
+
+Key features:
+
+- Writing components, and adding them to Storybook so other devs know how to use them, and can see them in action within several use cases
+- Testing individual components (unit and E2E tests)
+- Brainstorming on different possible use cases, UX, and accessibility when it comes to new components
+- Bug fixes, and new feature implementations based on best practices
+
 ## Tv Show Suggestion Service - App Galactica - March 2022
 
 ### Web Application
